@@ -20,7 +20,7 @@
   <img align="center" alt="gabryel-Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="gabryel-GraphQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="center" alt="gabryel-Jest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-   <img align="center" alt="gabryel-tailwind" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />      
+  <img align="center" alt="gabryel-Tailwind" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
 </div>
   
   ##
