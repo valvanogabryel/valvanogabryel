@@ -2,7 +2,7 @@
 ## Me chamo Gabryel Valvano. 
 
 - 🔭 Desenvolvedor Front-End.
-- 🌱 Atualmente estudando NextJS, ApolloGraphQL, Cypress e StyledComponents
+- 🌱 Atualmente estudando NextJS, Apollo GraphQL, Cypress e StyledComponents
 
 <div align="center">
   <a href="https://github.com/valvanogabryel">
@@ -16,8 +16,11 @@
   <img align="center" alt="gabryel-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabryel-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="gabryel-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="gabryel-React" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="gabryel-React" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="gabryel-Sass" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="gabryel-Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="gabryel-GraphQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="gabryel-Jest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+   <img align="center" alt="gabryel-tailwind" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />      
 </div>
   
   ##
