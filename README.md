@@ -2,7 +2,7 @@
 ## Me chamo Gabryel Valvano. 
 
 - 🔭 Desenvolvedor Front-End.
-- 🌱 Atualmente estudando TypeScript, ReactJS e TailwindCSS
+- 🌱 Atualmente estudando NextJS, ApolloGraphQL, Cypress e StyledComponents
 
 <div align="center">
   <a href="https://github.com/valvanogabryel">
