@@ -11,7 +11,7 @@
 
 - 👨‍💻 Todos os meus projetos estão em [https://portfolio-gabryel.vercel.app/](https://portfolio-gabryel.vercel.app/)
 
-- 📫 How to reach me **valvanogabryel@gmail.com**
+- 📫 Como falar comigo? **valvanogabryel@gmail.com**
 
 - 📄 Meu currículo [https://docs.google.com/document/d/1cnQm4vp6bqOJxO4Iuc_SX67zS9Y9GdKDmQI1dW0SXNE/edit?usp=sharing](https://docs.google.com/document/d/1cnQm4vp6bqOJxO4Iuc_SX67zS9Y9GdKDmQI1dW0SXNE/edit?usp=sharing)
 
