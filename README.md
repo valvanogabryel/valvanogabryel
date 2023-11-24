@@ -2,7 +2,7 @@
 ## Me chamo Gabryel Valvano. 
 
 - 🔭 Desenvolvedor Front-End.
-- 🌱 Atualmente estudando NextJS, Apollo GraphQL, Cypress e NodeJS
+- 🌱 Atualmente estudando NextJS, NodeJS, Prisma ORM e WebSockets
 
 <div align="center">
   <a href="https://github.com/valvanogabryel">
