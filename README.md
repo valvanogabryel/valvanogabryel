@@ -1,7 +1,6 @@
-# Olá, mundo! 
-## Me chamo Gabryel Valvano. 
+<h1 align="center">Olá, mundo! 👋, me chamo Gabryel e sou</h1>
+<h3 align="center">um desenvolvedor front-end</h3>
 
-- 🔭 Desenvolvedor Front-End.
 - 🌱 Atualmente estudando NextJS, NodeJS, Prisma ORM e WebSockets
 
 <div align="center">
