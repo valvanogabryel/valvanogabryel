@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 👋, meu nome é Gabryel</h1>
+<h1 align="center">Olá, mundo! Meu chamo Gabryel 👋</h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valvanogabryel&label=Profile%20views&color=0e75b6&style=flat" alt="valvanogabryel" /> </p>
