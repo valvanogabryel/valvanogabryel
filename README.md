@@ -9,7 +9,7 @@
 
 - Atualmente estudando **NextJS, NodeJS, Prisma ORM e WebSockets**
 
-- 👨‍💻 Todos os meus projetos estão em [https://portfolio-gabryel.vercel.app/](https://portfolio-gabryel.vercel.app/)
+- 👨‍💻 Todos os meus projetos estão em [https://portfolio-gabryel.vercel.app/](https://portfolio-gabryel.vercel.app/) ⚠️ Portfólio em reformulação. O site atual está desatualizado e não representa meu nível técnico ou de design atual.
 
 - 📫 Como falar comigo? **valvanogabryel@gmail.com**
 
